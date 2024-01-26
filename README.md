@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hutchson1
-- 👀 I’m interested in Web Development and Android
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on more open source projects
-- 📫 How to reach me 
+- 👀 I’m interested in anything data and MLAI
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me Twitter @hutchs0n
 
 <!---
 Hutchson1/Hutchson1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
