@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hutchson1
+- 👋 Hi, I’m Hutchson
 - 👀 I’m interested in anything data and MLAI
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on open source projects
