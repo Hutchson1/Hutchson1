@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hutchson
 - 👀 I’m interested in anything data and MLAI
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning CS50x and CS50P
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me Twitter @hutchs0n
 
